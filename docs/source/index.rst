@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Ole777 - Thương Hiệu Giải Trí Thể Thao Hàng Đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Ole777 <https://ole777.wiki/>`_ là nhà cái trực tuyến hàng đầu, ra đời năm 2014 và thuộc sở hữu của Ole Group. Trang web được cấp phép bởi PAGCOR (Philippine Amusement and Gaming Corporation) – cơ quan cấp phép hợp pháp duy nhất và uy tín nhất của chính phủ Philippines. Đây là minh chứng cho sự minh bạch và an toàn trong hoạt động của Ole777, mang đến cho người chơi một môi trường giải trí đáng tin cậy.
+Ole777 không chỉ tập trung vào việc tạo ra một nền tảng an toàn, mà còn đa dạng hóa các loại hình giải trí, từ xổ số, đá gà, thể thao, casino đến các trò chơi bài. Với cam kết mang lại trải nghiệm tốt nhất, Ole777 không ngừng nâng cao chất lượng dịch vụ và áp dụng công nghệ tiên tiến. Dưới sự giám sát nghiêm ngặt từ PAGCOR, Ole777 luôn đảm bảo tính công bằng và minh bạch trong mọi hoạt động, trở thành sự lựa chọn lý tưởng cho những ai yêu thích cá cược và giải trí trực tuyến.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 20 Đường số 1, Khu phố 9, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0984412411. 
 
-Contents
---------
+Email: info@ole777.wiki. 
 
-.. toctree::
+Website: https://ole777.wiki/ 
 
-   usage
-   api
+#ole777 #trangchuole777 #dangkyole777 #dangnhapole777 #linkole777
